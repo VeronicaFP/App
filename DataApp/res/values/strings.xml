@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PFC</string>
+    <string name="action_scan">Scan</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+
+    <!-- DeviceListActivity -->
+    <string name="button_scan">Scan for devices</string>
+    <string name="none_found">No devices found</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="scanning">Scan for devices…</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="title_activity_device_list">DeviceListActivity</string>
+    <string name="title_other_devices">Other available devices</string>
+    <string name="title_paired_devices">Paired devices</string>
+    <string name="toast_unable_to_connect">Unable to connect</string>
+    <string name="toast_connection_lost">Connection lost</string>
+
+</resources>
